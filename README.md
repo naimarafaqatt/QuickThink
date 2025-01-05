@@ -29,7 +29,6 @@ Once the development server is running, you can start using QuickThink:
 - **Edit Tasks**: Double click on a task to edit its details.
 - **Delete Tasks**: Click on the delete icon to remove a task.
 
-## QuickThink Preview
-
-![Github Repo]
+## GitHub Repo
+-- ** https://github.com/naimarafaqatt/QuickThink **
 # QuickThink

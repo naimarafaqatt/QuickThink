@@ -32,3 +32,4 @@ Once the development server is running, you can start using QuickThink:
 ## GitHub Repo
 -- ** https://github.com/naimarafaqatt/QuickThink **
 # QuickThink
+# QuickThink
